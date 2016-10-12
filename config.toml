@@ -1,0 +1,7 @@
+baseurl = "http://vividrobot.com/"
+title = "Vivid Robot"
+languageCode = "en-ca"
+theme = "hyde"
+
+[Params]
+  Author = "Warren Knox"
